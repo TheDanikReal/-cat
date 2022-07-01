@@ -5,3 +5,4 @@ if numberrandom = mynumber:
  print("Ты угадал число!")
 else:
  print(f"Ты не угадал число /n Правильное число это: {numberrandom}")
+print("надеюсь тебе понравилось)
